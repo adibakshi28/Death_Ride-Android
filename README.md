@@ -100,8 +100,8 @@ Players navigate through a series of levels, each presenting unique obstacles an
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/DR3.png" alt="Game Screenshot 4" style="width: 32%;">
-  <img src="Game%20Screenshot/DR5.png" alt="Game Screenshot 5" style="width: 32%;">
-  <img src="Game%20Screenshot/DR6.png" alt="Game Screenshot 6" style="width: 32%;">
+  <img src="Game%20Screenshot/DR4.png" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Game%20Screenshot/DR5.png" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
 ## Scripts Overview
