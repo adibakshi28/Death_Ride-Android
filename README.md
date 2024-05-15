@@ -1,6 +1,7 @@
 # Death Ride
 
 Death Ride is a thrilling obstacle avoidance game set in outer space, developed using the Unity engine. Players control a fast-moving spaceship, navigating through increasingly challenging obstacles as the game progresses and speeds up. This repository includes all necessary files and resources to build, run, and modify the game.
+The game has included google play plugin which will allow it to connect to google play services like Google Play achievements and leaderboard. It also have integration to display ads.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -24,14 +25,14 @@ Death Ride is a thrilling obstacle avoidance game set in outer space, developed 
 Death Ride is an exciting 3D obstacle avoidance game where players must deftly maneuver a spaceship through a perilous outer space landscape. Built with Unity, it offers a smooth and immersive experience for Android users.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/DR0.png" alt="Game Screenshot 1" style="width: 32%;">
+  <img src="Game%20Screenshot/DR3.png" alt="Game Screenshot 4" style="width: 32%;">
   <img src="Game%20Screenshot/DR1.png" alt="Game Screenshot 2" style="width: 32%;">
   <img src="Game%20Screenshot/DR2.png" alt="Game Screenshot 3" style="width: 32%;">
 </div>
 
 ## Features
 
-- **Intuitive Controls:** Smooth touch controls for seamless gameplay.
+- **Intuitive Controls:** Smooth motion sense and touch controls for seamless gameplay.
 - **Increasing Difficulty:** Obstacles become more challenging as the game progresses.
 - **High-Quality Graphics:** Stunning 3D graphics and animations.
 - **Immersive Sound Effects:** High-quality sound effects to enhance the gaming experience.
@@ -72,7 +73,7 @@ To set up and run the project locally, follow these steps:
 
 ## Usage
 
-After building the project, install the APK on your Android device. Launch the game and follow the on-screen instructions to start playing. Use touch controls to navigate through levels and avoid obstacles.
+After building the project, install the APK on your Android device. Launch the game and follow the on-screen instructions to start playing. Use motion sense device tilt or touch controls to navigate through levels and avoid obstacles.
 
 ## Project Structure
 
@@ -99,8 +100,8 @@ Players navigate through a series of levels, each presenting unique obstacles an
 - **Feedback:** Real-time feedback to help players improve.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/DR3.png" alt="Game Screenshot 4" style="width: 32%;">
   <img src="Game%20Screenshot/DR4.png" alt="Game Screenshot 5" style="width: 32%;">
+  <img src="Game%20Screenshot/DR0.png" alt="Game Screenshot 1" style="width: 32%;">
   <img src="Game%20Screenshot/DR5.png" alt="Game Screenshot 6" style="width: 32%;">
 </div>
 
