@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ccc79fcc47e5b004f83de1d29676fe11
+labels:
+- gpsr
+timeCreated: 1513362595
+licenseType: Free
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Android:
+      enabled: 1
+      settings: {}
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
